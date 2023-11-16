@@ -1,0 +1,25 @@
+.nav{
+    background-color: bisque;
+}
+
+.nav ul li{
+
+    display:inline-block;
+    list-style:none;
+    padding: 20px;
+    
+}
+
+.nav ul li a{
+    text-decoration: none;
+    transition: all 1s;
+}
+
+.nav ul li a:hover{
+    color: red;
+    border-bottom: 2px solid green;
+    background-color: aquamarine;
+}
+
+
+
